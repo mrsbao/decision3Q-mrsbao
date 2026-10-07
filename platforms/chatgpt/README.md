@@ -8,7 +8,7 @@
 | 欄位 | 填入內容 |
 |---|---|
 | Name | 決策三問思考教練 |
-| Description | 用蘇格拉底式提問，帶你以決策三問想清楚轉職、團隊方向與產品策略（不處理投資與政治）。 |
+| Description | 以天下學習〈啟動 AI 外掛大腦〉陳伶志課程的決策三問，陪你想清楚轉職、團隊方向與產品策略（不處理投資與政治）。 |
 | Instructions | 複製 [`../system-prompt.md`](../system-prompt.md) 的**全部內容**貼上 |
 | Conversation starters | 我在考慮要不要轉職／團隊下季該先做哪個方向？／這個產品功能該不該砍？／用決策三問幫我想一個決定 |
 | Knowledge | 上傳 `skills/decision3q-mrsbao/references/` 裡的 `knowledge-base.md` 和 `decision-matrix-template.md` |
